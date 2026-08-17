@@ -16,7 +16,7 @@
 
 ## 软件截图
 
-*完整截图将在正式发布前添加。*
+
 
 **主界面**
 ![主界面](screenshots/main-interface.png)
@@ -143,7 +143,8 @@ API Key 保存在你配置的位置——通常是本地 `.env` 文件或直接�
 
 在打包版 Windows 应用中，典型的用户数据目录是：
 
-%APPDATA%\LiteLLM_GUI_Manager\
+`%APPDATA%\LiteLLM_GUI_Manager\`
+
 
 其中可能包括：
 
