@@ -1,0 +1,29 @@
+# Secrets / credentials
+.env
+*.lic
+*.pem
+*.key
+private_key*
+private-key*
+
+# Private license tools
+License_Generator/
+license_generator/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build output
+build/
+dist/
+output/
+test_output/
+
+# Local IDE / AI settings
+.claude/settings.local.json
+
+# OS junk
+Thumbs.db
+.DS_Store
