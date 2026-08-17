@@ -14,6 +14,19 @@ Manage YAML configs, providers, API base URLs, `.env` variables, proxy lifecycle
 
 ---
 
+## Demo Video
+
+Watch the full LiteLLM GUI Manager demo:
+
+**LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
+
+[![LiteLLM GUI Manager Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/mGFUX2ba6PQ)
+
+▶ [Watch the full demo on YouTube](https://youtu.be/mGFUX2ba6PQ)
+
+---
+
+
 ## Screenshots
 
 **Main Interface**
@@ -33,18 +46,7 @@ Manage YAML configs, providers, API base URLs, `.env` variables, proxy lifecycle
 
 ---
 
-## Demo Video
 
-Watch the full LiteLLM GUI Manager demo:
-
-**LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
-
-https://youtu.be/mGFUX2ba6PQ
-
-<!-- Video thumbnail will be added once available: screenshots/youtube-demo-thumbnail.png -->
-<!-- [![LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/mGFUX2ba6PQ) -->
-
----
 
 ## Why LiteLLM GUI Manager
 
