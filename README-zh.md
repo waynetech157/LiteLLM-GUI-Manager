@@ -1,6 +1,6 @@
 # LiteLLM GUI Manager
 
-**LiteLLM GUI Manager 是一款用于管理 LiteLLM 的 Windows 桌面管理界面。**
+**LiteLLM GUI Manager 是一款面向 Windows 的 LiteLLM 图形化管理工具。**
 
 通过图形界面管理 YAML 配置、Provider、API Base URL、`.env` 环境变量、代理生命周期和本地使用统计——无需手工编辑文件或使用命令行。
 
@@ -33,13 +33,12 @@ LiteLLM GUI Manager 当前商业方案为 **永久 License（Perpetual License�
 
 观看完整的 LiteLLM GUI 管理器演示：
 
-**适用于 Windows 的 LiteLLM GUI 管理器 – 轻松设置、模型管理和 Claude 代码演示**
+**LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
 
 [![LiteLLM GUI 管理器演示](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U)
 
 ▶ [在 YouTube 上观看完整演示](https://youtu.be/DaOdhE2iS-U)
 
----
 ---
 
 ## 软件截图
