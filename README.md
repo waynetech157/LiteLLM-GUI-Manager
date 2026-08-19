@@ -14,19 +14,17 @@ Manage YAML configs, providers, API base URLs, `.env` variables, proxy lifecycle
 
 ---
 
-## Pricing
+## Purchase
 
 **US$29 — One-time purchase**
 
-The current commercial offer is a **Perpetual License** for LiteLLM GUI Manager.
+The current commercial license is a **Perpetual License**.
 
 A perpetual license allows continued use of the purchased version. Future major versions or separately released products may require a separate purchase.
 
 > Purchase checkout will be available when the public release goes live.
 
-**Support:** [waynetech157@outlook.com](mailto:waynetech157@outlook.com)
-
-[Terms and Conditions](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) · [Privacy Policy](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) · [Refund Policy](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
+Refund terms: [Refund Policy](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
 
 ---
 
