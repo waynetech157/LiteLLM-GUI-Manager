@@ -261,7 +261,7 @@ The proprietary software license for LiteLLM GUI Manager will be provided as `EU
 
 - LiteLLM documentation: [https://docs.litellm.ai/](https://docs.litellm.ai/)
 - LiteLLM source: [https://github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)
-- Demo video: [LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](https://youtu.be/mGFUX2ba6PQ)
+- Demo video: [LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](https://youtu.be/DaOdhE2iS-U)
 - Purchase: Coming Soon
 - Support: `waynetech157@outlook.com`
 
