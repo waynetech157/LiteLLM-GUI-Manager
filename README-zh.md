@@ -41,10 +41,10 @@
 
 **LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
 
-https://youtu.be/mGFUX2ba6PQ
+https://youtu.be/DaOdhE2iS-U
 
 <!-- 视频封面将在准备好后添加：screenshots/youtube-demo-thumbnail.png -->
-<!-- [![LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/mGFUX2ba6PQ) -->
+<!-- [![LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U) -->
 
 ---
 
