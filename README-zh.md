@@ -10,7 +10,7 @@
 
 ---
 
-[English](README.md) &nbsp;|&nbsp; [价格](#价格) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp; [购买](#购买) &nbsp;|&nbsp; [观看演示](#功能演示) &nbsp;|&nbsp; [条款](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) &nbsp;|&nbsp; [隐私](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) &nbsp;|&nbsp; [退款](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
+[English](README.md) &nbsp;|&nbsp; [价格](#价格) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp; [购买](#购买) &nbsp;|&nbsp; [观看演示](#演示视频) &nbsp;|&nbsp; [条款](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) &nbsp;|&nbsp; [隐私](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) &nbsp;|&nbsp; [退款](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
 
 ---
 
