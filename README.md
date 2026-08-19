@@ -85,7 +85,7 @@ LiteLLM GUI Manager is a desktop management layer that sits alongside LiteLLM. *
 - **Chinese / English interface** — switch languages at any time, including from the activation window.
 - **Machine-bound commercial license activation** — a developer-issued `.lic` file tied to your device unlocks the application.
 
-Works with LiteLLM-supported providers, including services such as OpenAI, Anthropic, NVIDIA, Ollama, Gemini, Groq, OpenRouter, and others supported by LiteLLM. LiteLLM GUI Manager does not claim official support, partnership, or endorsement from any of these providers — provider connectivity depends on LiteLLM itself and on each provider's own API.
+Works with LiteLLM-supported providers, including services such as OpenAI, Anthropic, NVIDIA, Ollama, Gemini, Grok, OpenRouter, and others supported by LiteLLM. LiteLLM GUI Manager does not claim official support, partnership, or endorsement from any of these providers — provider connectivity depends on LiteLLM itself and on each provider's own API.
 
 ---
 
