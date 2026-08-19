@@ -62,19 +62,6 @@ LiteLLM GUI Manager 当前商业方案为 **永久 License（Perpetual License�
 
 ---
 
-## 功能演示
-
-完整功能演示：
-
-**LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
-
-[![LiteLLM GUI Manager 演示视频](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U)
-
-▶ [在 YouTube 观看完整演示](https://youtu.be/DaOdhE2iS-U)
-
-
----
-
 ## 为什么需要 LiteLLM GUI Manager
 
 [LiteLLM](https://github.com/BerriAI/litellm) 是一个强大的代理，可以统一接入数十家 LLM 服务商。但在 Windows 上配置它，意味着需要手工编辑 YAML 文件、`.env` 文件、Provider 前缀、Base URL 和 API Key，并在每次改动后重新从终端重启代理。
