@@ -1,6 +1,6 @@
 # LiteLLM GUI Manager
 
-**LiteLLM GUI Manager is a Windows desktop management interface for LiteLLM.**
+**LiteLLM GUI Manager is a LiteLLM graphical management tool for Windows.**
 
 Use a graphical interface to manage YAML configurations, providers and model prefixes, API base URLs, .env environment variables, LiteLLM Proxy start/stop, and local usage statistics — without manually editing configuration files or frequently using the command line.
 
