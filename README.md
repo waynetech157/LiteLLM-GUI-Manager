@@ -36,9 +36,9 @@ Watch the full LiteLLM GUI Manager demo:
 
 **LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
 
-[![LiteLLM GUI Manager Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/mGFUX2ba6PQ)
+[![LiteLLM GUI Manager Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U)
 
-▶ [Watch the full demo on YouTube](https://youtu.be/mGFUX2ba6PQ)
+▶ [Watch the full demo on YouTube](https://youtu.be/DaOdhE2iS-U)
 
 ---
 
