@@ -2,7 +2,7 @@
 
 **LiteLLM GUI Manager is a Windows desktop management interface for LiteLLM.**
 
-Manage YAML configs, providers, API base URLs, `.env` variables, proxy lifecycle, and local usage statistics — without manually editing files or using the command line.
+Use a graphical interface to manage YAML configurations, providers and model prefixes, API base URLs, .env environment variables, LiteLLM Proxy start/stop, and local usage statistics — without manually editing configuration files or frequently using the command line.
 
 > [LiteLLM](https://github.com/BerriAI/litellm) is an open-source project. LiteLLM GUI Manager is an independently developed, third-party Windows desktop tool — it is not an official LiteLLM product, and it will be released as **paid commercial software**.
 
