@@ -10,7 +10,25 @@
 
 ---
 
-[English](README.md) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp; [购买](#购买) &nbsp;|&nbsp; [观看演示](#功能演示)
+[English](README.md) &nbsp;|&nbsp; [价格](#价格) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp; [购买](#购买) &nbsp;|&nbsp; [观看演示](#功能演示) &nbsp;|&nbsp; [条款](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) &nbsp;|&nbsp; [隐私](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) &nbsp;|&nbsp; [退款](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
+
+---
+
+## 价格
+
+**US$29 — 一次性购买**
+
+LiteLLM GUI Manager 当前商业方案为 **永久 License（Perpetual License）**。
+
+永久 License 允许你持续使用已购买的版本。未来重大版本或单独发布的产品可能需要另行购买。
+
+> 正式公开发布后将开放购买结账。
+
+**技术支持：** [waynetech157@outlook.com](mailto:waynetech157@outlook.com)
+
+[条款与条件](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) · [隐私政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) · [退款政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
+
+---
 
 ---
 
@@ -41,10 +59,10 @@
 
 **LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo**
 
-https://youtu.be/DaOdhE2iS-U
+[![LiteLLM GUI Manager 演示视频](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U)
 
-<!-- 视频封面将在准备好后添加：screenshots/youtube-demo-thumbnail.png -->
-<!-- [![LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U) -->
+▶ [在 YouTube 观看完整演示](https://youtu.be/DaOdhE2iS-U)
+
 
 ---
 
@@ -189,9 +207,15 @@ API Key 保存在你配置的位置——通常是本地 `.env` 文件或直接�
 
 ## 购买
 
-> **购买方式将在正式发布前公布。**
+**US$29 — 一次性购买**
 
-定价、License 类型、设备数量、机器迁移政策和退款条款将在购买页面上线后公布。
+当前商业授权方式为 **Perpetual License（永久 License）**。
+
+永久 License 允许持续使用已购买版本。未来重大版本或单独发布的产品可能需要另行购买。
+
+> 正式公开发布后将开放购买结账。
+
+退款政策请参阅：[退款政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
 
 ---
 
@@ -246,7 +270,7 @@ LiteLLM GUI Manager 的专有软件许可证将随正式发布提供，文件名
 
 - LiteLLM 文档：[https://docs.litellm.ai/](https://docs.litellm.ai/)
 - LiteLLM 源码：[https://github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)
-- 功能演示：[LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](https://youtu.be/mGFUX2ba6PQ)
+- 功能演示：[LiteLLM GUI Manager for Windows – Easy Setup, Model Management & Claude Code Demo](https://youtu.be/DaOdhE2iS-U)
 - 购买：即将上线
 - 技术支持：`waynetech157@outlook.com`
 
