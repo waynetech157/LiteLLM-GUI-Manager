@@ -29,7 +29,17 @@ LiteLLM GUI Manager 当前商业方案为 **永久 License（Perpetual License�
 [条款与条件](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) · [隐私政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) · [退款政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
 
 ---
+## 演示视频
 
+观看完整的 LiteLLM GUI 管理器演示：
+
+**适用于 Windows 的 LiteLLM GUI 管理器 – 轻松设置、模型管理和 Claude 代码演示**
+
+[![LiteLLM GUI 管理器演示](screenshots/youtube-demo-thumbnail.png)](https://youtu.be/DaOdhE2iS-U)
+
+▶ [在 YouTube 上观看完整演示](https://youtu.be/DaOdhE2iS-U)
+
+---
 ---
 
 ## 软件截图
