@@ -200,13 +200,6 @@ Download only from this official repository page.
 
 ---
 
-## Purchase
-
-> **Purchase information will be available before the public release.**
-
-Pricing, license type, device count, machine-transfer policy, and refund terms will be listed on the purchase page when available.
-
----
 
 ## FAQ
 
