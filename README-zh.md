@@ -10,7 +10,7 @@
 
 ---
 
-[English](README.md) &nbsp;|&nbsp; [价格](#价格) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp; [购买](#购买) &nbsp;|&nbsp; [观看演示](#演示视频) &nbsp;|&nbsp; [条款](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) &nbsp;|&nbsp; [隐私](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) &nbsp;|&nbsp; [退款](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
+[English](README.md) &nbsp;|&nbsp; [价格](#价格) &nbsp;|&nbsp; [下载](#下载) &nbsp;|&nbsp;[观看演示](#演示视频) &nbsp;|&nbsp; [条款](https://waynetech157.github.io/LiteLLM-GUI-Manager/terms.html) &nbsp;|&nbsp; [隐私](https://waynetech157.github.io/LiteLLM-GUI-Manager/privacy.html) &nbsp;|&nbsp; [退款](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
 
 ---
 
@@ -112,7 +112,7 @@ LiteLLM GUI Manager 使用**设备绑定 License**，每台设备单独签发。
 
 1. 启动应用 — 若未找到有效 License，激活窗口会自动打开。
 2. 复制激活窗口中显示的**设备 ID**。
-3. 在[购买页面](#购买)完成购买。
+3. 正式公开发布后，通过购买页面完成购买。
 4. 你将收到一个与你的设备 ID 绑定的 `.lic` 文件。
 5. 点击**导入 License** 并选择该 `.lic` 文件。
 6. 应用解锁，可进入主界面。
@@ -201,19 +201,6 @@ API Key 保存在你配置的位置——通常是本地 `.env` 文件或直接�
 
 ---
 
-## 购买
-
-**US$29 — 一次性购买**
-
-当前商业授权方式为 **Perpetual License（永久 License）**。
-
-永久 License 允许持续使用已购买版本。未来重大版本或单独发布的产品可能需要另行购买。
-
-> 正式公开发布后将开放购买结账。
-
-退款政策请参阅：[退款政策](https://waynetech157.github.io/LiteLLM-GUI-Manager/refund.html)
-
----
 
 ## 常见问题
 
