@@ -22,10 +22,8 @@ A perpetual license means that the licensed version may continue to be used inde
 
 LiteLLM GUI Manager uses machine-bound license activation.
 
-A license may be associated with a specific device or machine identifier. 
-A license is bound to one device.
-If you need to move the license to another device,
-please contact support for reactivation.
+Each license is bound to one device through a machine identifier. 
+If you need to move a license to another device, please contact support for license reactivation.
 
 ## 4. Payments
 
