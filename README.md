@@ -13,7 +13,7 @@ configuration files or frequently using the command line.
 > third-party Windows desktop tool --- it is not an official LiteLLM
 > product, and it will be released as **paid commercial software**.
 
-**Status: v1.0.0 --- Coming Soon**
+**Status: v1.0.0 --- Released**
 
 ------------------------------------------------------------------------
 
