@@ -27,7 +27,7 @@ configuration files or frequently using the command line.
 
 ------------------------------------------------------------------------
 
-## Purchase
+## Pricing
 
 **US\$29 --- One-time purchase**
 
